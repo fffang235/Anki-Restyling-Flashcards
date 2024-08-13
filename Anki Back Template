@@ -1,8 +1,9 @@
 *If just having the back template shown*
 <div class="frontbg_top">
-		{{Audio}}
-	<div class="Furigana">
-		{{furigana:Vocabs}}
+
+	<div class="Furingana">
+	<div style='font-family: "Times New Roman"; font-size: 30px; text-align: center; color: #032aaf; font-weight: bold;'>{{furigana:Furigana}}{{Audio}}</div>
+
 	</div>
 
 </div>
@@ -23,23 +24,18 @@
 <hr id=answer>
 
 <div class="frontbg_top">
-	<div class="Vocabs">
-		{{furigana:Vocabs}}
-	</div>
-	<div class="Meaning">
-		{{furigana:Meaning}}
+
+	<div class="Furingana">
+	<div style='font-family: "Times New Roman"; font-size: 30px; text-align: center; color: #032aaf; font-weight: bold;'>{{furigana:Furigana}}{{Audio}}</div>
+
 	</div>
 
 </div>
 <div class="frontbg_bottom">
-	<div class="meaning">
-		{{Meaning}}
+	<div class="Meaning">
+	{{Meaning}}
 </div>
 	
 <div class="Example">
-		{{furigana:Vocabs}}
+		{{Example}}
 	</div>
-	{{#Audio}}<div class="meaning">
-		{{Audio}}
-	</div>{{/Audio}}
-</div>
