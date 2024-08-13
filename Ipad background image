@@ -1,0 +1,5 @@
+/*IPAD custom background image - */
+
+.ipad .card {
+    background-image: url(“insert link to any image from online.png”);
+}
