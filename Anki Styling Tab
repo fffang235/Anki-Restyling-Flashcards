@@ -3,7 +3,7 @@
 	font-size: 20px;
 	text-align: center;
 	color: black;
-	background: url("https://github.com/zantoku/AnkiThemeMountains/blob/master/bg_mountains.jpg?raw=true");
+	background: url("https://github.com/fffang235/Anki-Restyling-Flashcards/blob/main/5206338.jpg?raw=true");
 	background-attachment: fixed;
 	background-size: auto 100%;
 	background-position: center;
@@ -32,7 +32,7 @@
 }
 
 .sentence {
-	font-size: 12pt;
+	font-size: 15pt;
 	color: #ddd;
 }
 
