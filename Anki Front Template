@@ -1,0 +1,12 @@
+*Front Template*
+
+<div class="frontbg_top">
+	<div class="Vocabs">
+		{{furigana:Vocabs}}
+	</div>
+</div>
+<div class="frontbg_bottom">
+	<div class="Audio">
+		{{furigana:Audio}}
+	</div>
+</div>
