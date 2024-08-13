@@ -7,6 +7,6 @@
 </div>
 <div class="frontbg_bottom">
 	<div class="Audio">
-		{{furigana:Audio}}
+		{{Audio}}
 	</div>
 </div>
