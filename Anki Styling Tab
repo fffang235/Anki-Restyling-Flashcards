@@ -1,8 +1,7 @@
 .card {
-	font-family: Times New Roman, Tahoma;
-	font-size: 20px;
+	font-family: Times New Roman;
 	text-align: center;
-	color: black;
+	color: #0000;
 	background: url("https://github.com/fffang235/Anki-Restyling-Flashcards/blob/main/5206338.jpg?raw=true");
 	background-attachment: fixed;
 	background-size: auto 100%;
@@ -11,44 +10,63 @@
 }
 
 .frontbg_top {
-	background-color: rgba(24, 173, 161, 0.25);
-	border-radius: 12px 12px 0 0;
-	color: #fff;
-	padding: 1.5em 0 0.5em 0;
+	background-color: rgba(152, 216, 214, 0.55);
+	border-radius: 1em 1em 0em 0em;
+	color: #032aaf;
+	padding: 1em 0px 0.8em 0;
 }
 
 .frontbg_bottom {
-	background-color: rgba(84, 143, 141, 0.45);
-	border-radius: 0 0 12px 12px;
-	color: #fff;
-	padding: 1em 1em 1.5em 1em;
+	background-color: rgba(169, 249, 239, 0.30);
+	border-radius: 0 0 10px 12px;
+	color: #353535;
+	padding: 1em 1em 1em 1em;
 }
-.expression {
+
+.Audio {
+	font-size: 10px;
+	color: #032aaf
+}
+
+.Vocabs {
 	font-size: 30pt;
-}
-
-.reading {
-	font-size: 12pt;
-}
-
-.sentence {
-	font-size: 15pt;
-	color: #ddd;
-}
-
-.reading + .sentence {
-	padding-top: 1em;
-}
-
-.cloze_highlight {
-	color: #fff;
+	color: #032aaf;
 	font-weight: bold;
+	margin: 0px 0px 0px 0px;
+	padding:0px 0px;
 }
 
-.frontbg_top .meaning {
-	font-size: 18pt;
+.Furigana {
+	font-size: 30pt;
+	color: 00000;
+	font-weight: bold;
+	margin: 0px 0px 0px 0px;
+	padding:0px 0px;
 }
 
 .meaning {
-	padding: 1em;
+	text-align: center;
+	margin: 0px 0px 0px 0px;
+	padding:0px 0px;
 }
+
+.example {
+	font-size: 15pt;
+}
+
+.cloze_highlight {
+	color: #0300ff;
+	font-weight: bold;
+}
+
+.frontbg_top .Meaning {
+	font-size: 30pt;
+}
+
+
+*note: 100px = 1em
+black #0000; dark blue #032aaf; 
+frontbg_top #98d8d6; frontbg_bottom #a9f9ef
+border-radius: top-left top-right right-bottom left-bottom
+padding: top right bottom left
+https://cssgradient.io/
