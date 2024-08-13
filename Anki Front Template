@@ -2,7 +2,7 @@
 
 <div class="frontbg_top">
 	<div class="Vocabs">
-		{{furigana:Vocabs}}
+		{{Vocabs}}
 	</div>
 </div>
 <div class="frontbg_bottom">
