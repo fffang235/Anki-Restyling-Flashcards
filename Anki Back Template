@@ -2,19 +2,25 @@
 <div class="frontbg_top">
 
 	<div class="Furingana">
-	<div style='font-family: "Times New Roman"; font-size: 30px; text-align: center; color: #032aaf; font-weight: bold;'>{{furigana:Furigana}}{{Audio}}</div>
+	<div style='font-family: "Times New Roman"; font-size: 35px; text-align: center; color: #032aaf; font-weight: bold;'>{{furigana:Furigana}}{{Audio}}</div>
 
 	</div>
 
 </div>
 <div class="frontbg_bottom">
 	<div class="Meaning">
-	{{Meaning}}
+	<div style='font-size: 20pt;text-align: center; margin: 0.1em 0em 0.7em 0em;'>{{Meaning}}</div>
+
+
 </div>
 	
 <div class="Example">
-		{{Example}}
+	<div style='font-size: 15pt;text-align: left; margin: 0.1em 0em 0.7em 0em;'>{{Example}}</div>
+
 	</div>
+
+{{Pictures}}
+
 
 
 *If wanting both front & back template shown*
@@ -26,16 +32,23 @@
 <div class="frontbg_top">
 
 	<div class="Furingana">
-	<div style='font-family: "Times New Roman"; font-size: 30px; text-align: center; color: #032aaf; font-weight: bold;'>{{furigana:Furigana}}{{Audio}}</div>
+	<div style='font-family: "Times New Roman"; font-size: 35px; text-align: center; color: #032aaf; font-weight: bold;'>{{furigana:Furigana}}{{Audio}}</div>
 
 	</div>
 
 </div>
 <div class="frontbg_bottom">
 	<div class="Meaning">
-	{{Meaning}}
+	<div style='font-size: 20pt;text-align: center; margin: 0.1em 0em 0.7em 0em;'>{{Meaning}}</div>
+
+
 </div>
 	
 <div class="Example">
-		{{Example}}
+	<div style='font-size: 15pt;text-align: left; margin: 0.1em 0em 0.7em 0em;'>{{Example}}</div>
+
 	</div>
+
+{{Pictures}}
+
+
