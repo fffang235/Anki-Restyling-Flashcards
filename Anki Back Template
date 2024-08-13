@@ -1,25 +1,20 @@
 *If just having the back template shown*
 <div class="frontbg_top">
-	<div class="Vocabs">
+		{{Audio}}
+	<div class="Furigana">
 		{{furigana:Vocabs}}
-	</div>
-	<div class="Meaning">
-		{{furigana:Meaning}}
 	</div>
 
 </div>
 <div class="frontbg_bottom">
-	<div class="meaning">
-		{{Meaning}}
+	<div class="Meaning">
+	{{Meaning}}
 </div>
 	
 <div class="Example">
-		{{furigana:Vocabs}}
+		{{Example}}
 	</div>
-	{{#Audio}}<div class="meaning">
-		{{Audio}}
-	</div>{{/Audio}}
-</div>
+
 
 *If wanting both front & back template shown*
 
