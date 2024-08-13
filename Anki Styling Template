@@ -2,7 +2,7 @@
 	font-family: Times New Roman;
 	text-align: center;
 	color: #0000;
-	background: url("https://github.com/fffang235/Anki-Restyling-Flashcards/blob/main/5206338.jpg?raw=true");
+	background: url("https://github.com/fffang235/Anki-Restyling-Flashcards/blob/Anki-Flashcard/5160549.jpg?raw=true");
 	background-attachment: fixed;
 	background-size: auto 100%;
 	background-position: center;
@@ -10,14 +10,14 @@
 }
 
 .frontbg_top {
-	background-color: rgba(152, 216, 214, 0.55);
+	background-color: rgba(187, 211, 254, 0.8);
 	border-radius: 1em 1em 0em 0em;
 	color: #032aaf;
 	padding: 1em 0px 0.8em 0;
 }
 
 .frontbg_bottom {
-	background-color: rgba(169, 249, 239, 0.30);
+	background-color: rgba(209, 255, 255, 0.3);
 	border-radius: 0 0 10px 12px;
 	color: #353535;
 	padding: 1em 1em 1em 1em;
@@ -46,7 +46,7 @@
 
 .meaning {
 	text-align: center;
-	margin: 0px 0px 0px 0px;
+	margin: 10px 0px 0px 0px;
 	padding:0px 0px;
 }
 
